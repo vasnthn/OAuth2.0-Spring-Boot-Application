@@ -1,5 +1,4 @@
-
-             OAuth2.0 Spring Boot Application
+# OAuth2.0 Spring Boot Application
 
 This is a Spring Boot application that demonstrates
 the use of OAuth2.0 authentication using GitHub as the
